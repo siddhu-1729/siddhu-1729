@@ -5,7 +5,8 @@ I am a FULL STACK DEVELOPER with hands-on experience in **Spring Boot, FASTAPI ,
 **Exploring Machine Learning and AI**
 
 - 🔭 **I’m currently working on**  
-  Scalable backend systems using **Spring Boot** and real-world fullstack applications  
+  - Scalable backend systems using **Spring Boot** and real-world fullstack applications
+  - **Clubs Collab Project** for organizations or institutes to manage the clubs and their events.A Saas which can serve as a common source for management to handle all clubs in the organisation/University/College
 
 - 🌱 **I’m currently learning**  
   Machine Learning, AI concepts, and advanced system design  
