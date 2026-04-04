@@ -9,7 +9,8 @@ I am a FULL STACK DEVELOPER with hands-on experience in **Spring Boot, FASTAPI ,
   - **Clubs Collab Project** for organizations or institutes to manage the clubs and their events.A Saas which can serve as a common source for management to handle all clubs in the organisation/University/College
 
 - 🌱 **I’m currently learning**  
-  Machine Learning, AI concepts, and advanced system design  
+  - Machine Learning, AI concepts
+  - Natural Language Processing  
 
 - 👯 **I’m looking to collaborate on**  
   - Backend-heavy projects  
