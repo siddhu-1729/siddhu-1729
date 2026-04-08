@@ -13,7 +13,7 @@ I am a FULL STACK DEVELOPER with hands-on experience in **Spring Boot, FASTAPI ,
   - Natural Language Processing  
 
 - 👯 **I’m looking to collaborate on**  
-  - Backend-heavy projects  
+  - Full Stack projects  
   - AI-integrated applications  
   - Scalable web and mobile apps  
 
