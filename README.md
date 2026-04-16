@@ -23,7 +23,7 @@ I am a FULL STACK DEVELOPER with hands-on experience in **Spring Boot, FASTAPI ,
   - Deploying machine learning models in production environments  
 
 - 💬 **Ask me about**  
-  - Spring Boot, REST APIs, Node.js  
+  - Spring Boot, REST APIs, Node.js , Express.js , Databases(SQL & NoSQL)
   - Authentication systems (JWT, security)  
   - Data Structures & Algorithms  
 
